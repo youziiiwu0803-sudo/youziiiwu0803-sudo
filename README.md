@@ -1,34 +1,55 @@
 # Hi, I'm Youyou 👋
 
-I'm a **Data Science and Big Data Technology student at XJTLU**, interested in applied AI, interactive experiences, and building useful things.
+I'm a **Data Science and Big Data Technology undergraduate at Xi'an Jiaotong-Liverpool University (XJTLU)**, interested in applied AI, interactive experiences, and building useful things.
 
-Outside projects, I help bring people together through student communities — especially around AI and gaming.
+I enjoy turning ideas into working projects and bringing people together through student communities.
 
-## Selected work
+## ✨ Selected work
 
 ### FinClear
 **AI-powered financial literacy · DKU Hackathon 2026**
 
-Helping people make sense of financial contracts, unfamiliar terms, and potential lending risks.
+Helping people understand financial contracts, unfamiliar terminology, and potential lending risks.
 
 ![FinClear demo](https://github.com/user-attachments/assets/4ea3f9dd-d6ea-448f-b10b-16885470235f)
 
-**I designed and built all website pages and user-facing interactions**, using Lovable for AI-assisted development and refining the experience with teammates' ideas and feedback.
+**My role · Website design & development**
 
-- Contract and financial terminology explanations
+Designed all website pages and implemented the frontend and user-facing interactions using **Lovable** for AI-assisted development. Refined the experience with teammates' ideas and feedback.
+
+- Contract decoding and financial terminology explanations
 - English / Chinese language options
 - Accessibility-focused display settings
 
-[View project →](https://github.com/suuqilayyy/2026-DKUHackSon-FinClear)
+**[Explore FinClear →](https://github.com/suuqilayyy/2026-DKUHackSon-FinClear)**
 
-## Community
+## 🔬 Research experience
 
-**Co-founder & Head of Publicity · AI Gaming Club, XJTLU**  
-Run the club's WeChat public account and email communications; plan, design, and publish content using Xiumi.
+### Smart warehouse simulation
+**NVIDIA Isaac Sim · Project at Southeast University**
 
-**Former Vice President · SCDA IT Branch, XJTLU**  
-Coordinated student activities and team responsibilities. In 2025, helped lead an XJTLU student delegation to the DKU hackathon — then returned as a participant in 2026 with FinClear.
+Contributed to warehouse scene construction, conveyor configuration, and integration with the team's robot module for picking and transport simulation.
 
-## Interests
+## 🌱 Community & leadership
 
-Applied AI · Games & simulation · Web development · Student communities
+### Student Career Development Association (SCDA) · XJTLU
+**Former Vice President, IT Branch**
+
+As Vice President of SCDA's IT Branch, I helped lead student activities, coordinate team responsibilities, and connect students with academic and career-development opportunities.
+
+- Led the organisation of the **Industry Insight Competition finals** and coordinated external mentors serving as judges.
+- Organised **major-selection and further-study sharing events**.
+- Helped lead an **XJTLU student delegation to the DKU hackathon in 2025**.
+
+### AI Gaming Club · XJTLU
+**Co-founder & Head of Publicity**
+
+Helped establish a student community around AI and gaming.
+
+- Run the club's **WeChat public account and email communications**.
+- Independently plan, design, and publish content using **Xiumi**.
+- Contribute to activity planning and the club's visual identity.
+
+## 💭 Interests
+
+`Applied AI` · `Games & simulation` · `Web development` · `Student communities`
